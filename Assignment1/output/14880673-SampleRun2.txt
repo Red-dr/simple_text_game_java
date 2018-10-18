@@ -1,0 +1,127 @@
+Loading Game
+How Epic are you? 
+there are 3 choises (its the difficutly setting)
+1 = under epic
+2 = epic enough
+3 = super epic
+COMMAND: 
+3
+Ah I see your mad crazy in the head
+and i bet you play DarkSouls blind folded with your face
+useing the RockBand drumset too .... well good luck
+
+
+welcome to the Dungen!!
+
+
+
+your eyes open, your a little fuzzy. Vision is blured its a few moments before your vision corrects but its no help 
+the room is dark exept for the small flicker of light coming from a touch on the wall,
+you slowly get to your feet you notice a cool liquid running down the back of you head
+you move your hand to the back of your head lightly touching where you felt the liquid
+it stings you look at your hand its red with blood your blood you dont remember how you got here 
+all you know is that you have to get out you run to the touch on the wall taking it out of the brace
+looking around the room you found yourself in you find a doorway with out thinking you run through and it closes
+with a thud behind you... you a traped 
+
+
+
+
+
+
+============================================
+ Health         200
+ Crowns         0
+============================================
+
+You are alone in a  cold room. It is very silent...  
+you see some doors each labled
+ 2
+You See a shadow in the room 
+COMMAND: 
+attack
+invalad input (words are case senitive please type in lower case and check spelling)
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 500
+
+
+
+============================================
+ Health         200
+ Crowns         0
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 47 damage
+the monster lunges foward punching you right in the face it bloody hurt you should proberly try to not get hit
+pro tip there dont get hit
+it does : 32 damage
+Monster hp: 453
+
+
+
+============================================
+ Health         168
+ Crowns         0
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 42 damage
+the monster lunges foward punching you right in the face it bloody hurt you should proberly try to not get hit
+pro tip there dont get hit
+it does : 85 damage
+Monster hp: 411
+
+
+
+============================================
+ Health         83
+ Crowns         0
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 7 damage
+the monster lunges foward punching you right in the face it bloody hurt you should proberly try to not get hit
+pro tip there dont get hit
+it does : 80 damage
+Monster hp: 404
+
+
+
+============================================
+ Health         3
+ Crowns         0
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 71 damage
+the monster lunges foward punching you right in the face it bloody hurt you should proberly try to not get hit
+pro tip there dont get hit
+it does : 66 damage
+Monster hp: 333
+
+
+
+============================================
+ Health         -63
+ Crowns         0
+============================================
+
+AAND you DEAD!

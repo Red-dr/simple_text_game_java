@@ -1,0 +1,921 @@
+Loading Game
+How Epic are you? 
+there are 3 choises (its the difficutly setting)
+1 = under epic
+2 = epic enough
+3 = super epic
+COMMAND: 
+3
+Ah I see your mad crazy in the head
+and i bet you play DarkSouls blind folded with your face
+useing the RockBand drumset too .... well good luck
+
+
+welcome to the Dungen!!
+
+
+
+your eyes open, your a little fuzzy. Vision is blured its a few moments before your vision corrects but its no help 
+the room is dark exept for the small flicker of light coming from a touch on the wall,
+you slowly get to your feet you notice a cool liquid running down the back of you head
+you move your hand to the back of your head lightly touching where you felt the liquid
+it stings you look at your hand its red with blood your blood you dont remember how you got here 
+all you know is that you have to get out you run to the touch on the wall taking it out of the brace
+looking around the room you found yourself in you find a doorway with out thinking you run through and it closes
+with a thud behind you... you a traped 
+
+
+
+
+
+
+============================================
+ Health         200
+ Crowns         0
+============================================
+
+You are alone in a  cold room. It is very silent...  
+you see some doors each labled
+ 2
+COMMAND: 
+look
+your looking around the room 
+you look around the room high and low
+you find nothing of interest
+COMMAND: 
+open
+What door would you like to open
+ 2
+2
+
+
+
+============================================
+ Health         200
+ Crowns         0
+============================================
+
+You are in a room with a single window that cannot be opened.
+you see some doors each labled
+ 1 3 5
+You See a shadow in the room 
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 50
+
+
+
+============================================
+ Health         200
+ Crowns         0
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 2 damage
+You see the attack coming from a mile away (you are a seasoned adventer after all) 
+you roll under it arm as it swings over you head you feel the air rush over you
+Monster hp: 48
+
+
+
+============================================
+ Health         200
+ Crowns         0
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 73 damage
+With the monster dead, you deside that your going to riffle through his stuff becouse reasons and such
+and also your an adventure after all this is what you do... you manage to find 7crowns
+COMMAND: 
+open
+What door would you like to open
+ 1 3 5
+5
+
+
+
+============================================
+ Health         200
+ Crowns         7
+============================================
+
+You are in a massive room with a very high ceiling.
+you see some doors each labled
+ 3 4 2
+You See a shadow in the room 
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 50
+
+
+
+============================================
+ Health         200
+ Crowns         7
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 85 damage
+With the monster dead, you deside that your going to riffle through his stuff becouse reasons and such
+and also your an adventure after all this is what you do... you manage to find 43crowns
+COMMAND: 
+open
+What door would you like to open
+ 3 4 2
+4
+
+
+
+============================================
+ Health         200
+ Crowns         50
+============================================
+
+The room is dark.
+you see some doors each labled
+ 5
+You See a shadow in the room 
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 1
+
+
+
+============================================
+ Health         200
+ Crowns         50
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 72 damage
+With the monster dead, you deside that your going to riffle through his stuff becouse reasons and such
+and also your an adventure after all this is what you do... you manage to find 0crowns
+COMMAND: 
+look
+your looking around the room 
+you look around the room high and low
+you find nothing of interest
+COMMAND: 
+look
+your looking around the room 
+you look around the room high and low
+you find nothing of interest
+COMMAND: 
+open
+What door would you like to open
+ 5
+5
+
+
+
+============================================
+ Health         200
+ Crowns         50
+============================================
+
+You are in a massive room with a very high ceiling.
+you see some doors each labled
+ 3 4 2
+You See a shadow in the room 
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 200
+
+
+
+============================================
+ Health         200
+ Crowns         50
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 41 damage
+the monster lunges foward punching you right in the face it bloody hurt you should proberly try to not get hit
+pro tip there dont get hit
+it does : 5 damage
+Monster hp: 159
+
+
+
+============================================
+ Health         195
+ Crowns         50
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 28 damage
+You see the attack coming from a mile away (you are a seasoned adventer after all) 
+you roll under it arm as it swings over you head you feel the air rush over you
+Monster hp: 131
+
+
+
+============================================
+ Health         195
+ Crowns         50
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 80 damage
+the monster lunges foward punching you right in the face it bloody hurt you should proberly try to not get hit
+pro tip there dont get hit
+it does : 15 damage
+Monster hp: 51
+
+
+
+============================================
+ Health         180
+ Crowns         50
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 13 damage
+You see the attack coming from a mile away (you are a seasoned adventer after all) 
+you roll under it arm as it swings over you head you feel the air rush over you
+Monster hp: 38
+
+
+
+============================================
+ Health         180
+ Crowns         50
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 94 damage
+With the monster dead, you deside that your going to riffle through his stuff becouse reasons and such
+and also your an adventure after all this is what you do... you manage to find 162crowns
+COMMAND: 
+open
+What door would you like to open
+ 3 4 2
+2
+
+
+
+============================================
+ Health         180
+ Crowns         212
+============================================
+
+You are in a room with a single window that cannot be opened.
+you see some doors each labled
+ 1 3 5
+You See a shadow in the room 
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 1
+
+
+
+============================================
+ Health         180
+ Crowns         212
+============================================
+
+COMMAND: 
+run
+not this time buddy the monster grabs you and throws you back into the middle of the room 
+Monster hp: 1
+
+
+
+============================================
+ Health         160
+ Crowns         212
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 87 damage
+With the monster dead, you deside that your going to riffle through his stuff becouse reasons and such
+and also your an adventure after all this is what you do... you manage to find 0crowns
+COMMAND: 
+
+Input invalid try again (inputs are case sensitiveand check spelling
+COMMAND: 
+attack
+Input invalid try again (inputs are case sensitiveand check spelling
+COMMAND: 
+opne
+Input invalid try again (inputs are case sensitiveand check spelling
+COMMAND: 
+open
+What door would you like to open
+ 1 3 5
+3
+
+
+
+============================================
+ Health         160
+ Crowns         212
+============================================
+
+The ceiling is low in this room and it feels warm.
+you see some doors each labled
+ 2 5
+You See a shadow in the room 
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 100
+
+
+
+============================================
+ Health         160
+ Crowns         212
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 64 damage
+You see the attack coming from a mile away (you are a seasoned adventer after all) 
+you roll under it arm as it swings over you head you feel the air rush over you
+Monster hp: 36
+
+
+
+============================================
+ Health         160
+ Crowns         212
+============================================
+
+COMMAND: 
+attack
+You run foward and try to punch the monster (why would you try to punch it thats just dumb find a wepon
+you hit it in the face doing: 82 damage
+With the monster dead, you deside that your going to riffle through his stuff becouse reasons and such
+and also your an adventure after all this is what you do... you manage to find 29crowns
+COMMAND: 
+open
+What door would you like to open
+ 2 5
+5
+
+
+
+============================================
+ Health         160
+ Crowns         241
+============================================
+
+You are in a massive room with a very high ceiling.
+you see some doors each labled
+ 3 4 2
+You See a shadow in the room 
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 1
+
+
+
+============================================
+ Health         160
+ Crowns         241
+============================================
+
+COMMAND: 
+run
+well you managed to run thats no fun where would you like to go
+ 3 4 2
+3
+ 2 5
+COMMAND: 
+help
+You can (open) a door and go thought it or (look) in the room to goodies
+COMMAND: 
+look
+your looking around the room 
+you find a Axe laying there on the ground lucky you becouse your not silly you pick it up to use
+you look around the room high and low
+you find nothing of interest
+COMMAND: 
+open
+What door would you like to open
+ 2 5
+2
+
+
+
+============================================
+ Health         160
+ Crowns         241
+============================================
+
+You are in a room with a single window that cannot be opened.
+you see some doors each labled
+ 1 3 5
+COMMAND: 
+look
+your looking around the room 
+you look around the room high and low
+you manage to find 164 Crowns
+COMMAND: 
+open
+What door would you like to open
+ 1 3 5
+3
+
+
+
+============================================
+ Health         160
+ Crowns         405
+============================================
+
+The ceiling is low in this room and it feels warm.
+you see some doors each labled
+ 2 5
+You See a shadow in the room 
+COMMAND: 
+attack
+invalad input (words are case senitive please type in lower case and check spelling)
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 1
+
+
+
+============================================
+ Health         160
+ Crowns         405
+============================================
+
+COMMAND: 
+run
+not this time buddy the monster grabs you and throws you back into the middle of the room 
+Monster hp: 1
+
+
+
+============================================
+ Health         140
+ Crowns         405
+============================================
+
+COMMAND: 
+attack
+You swing wildly at this thing infront of you hiting him you do: 239 damage
+With the monster dead, you deside that your going to riffle through his stuff becouse reasons and such
+and also your an adventure after all this is what you do... you manage to find 0crowns
+COMMAND: 
+open
+What door would you like to open
+ 2 5
+5
+
+
+
+============================================
+ Health         140
+ Crowns         405
+============================================
+
+You are in a massive room with a very high ceiling.
+you see some doors each labled
+ 3 4 2
+COMMAND: 
+look
+your looking around the room 
+you look around the room high and low
+you find nothing of interest
+COMMAND: 
+open
+What door would you like to open
+ 3 4 2
+3
+
+
+
+============================================
+ Health         140
+ Crowns         405
+============================================
+
+The ceiling is low in this room and it feels warm.
+you see some doors each labled
+ 2 5
+You See a shadow in the room 
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 1
+
+
+
+============================================
+ Health         140
+ Crowns         405
+============================================
+
+COMMAND: 
+attack
+You swing wildly at this thing infront of you hiting him you do: 138 damage
+With the monster dead, you deside that your going to riffle through his stuff becouse reasons and such
+and also your an adventure after all this is what you do... you manage to find 0crowns
+COMMAND: 
+open
+What door would you like to open
+ 2 5
+2
+
+
+
+============================================
+ Health         140
+ Crowns         405
+============================================
+
+You are in a room with a single window that cannot be opened.
+you see some doors each labled
+ 1 3 5
+You See a shadow in the room 
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 200
+
+
+
+============================================
+ Health         140
+ Crowns         405
+============================================
+
+COMMAND: 
+attack
+You swing wildly at this thing infront of you hiting him you do: 206 damage
+With the monster dead, you deside that your going to riffle through his stuff becouse reasons and such
+and also your an adventure after all this is what you do... you manage to find 37crowns
+COMMAND: 
+
+Input invalid try again (inputs are case sensitiveand check spelling
+COMMAND: 
+look
+your looking around the room 
+you look around the room high and low
+you find nothing of interest
+COMMAND: 
+open
+What door would you like to open
+ 1 3 5
+5
+
+
+
+============================================
+ Health         140
+ Crowns         442
+============================================
+
+You are in a massive room with a very high ceiling.
+you see some doors each labled
+ 3 4 2
+You See a shadow in the room 
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 1
+
+
+
+============================================
+ Health         140
+ Crowns         442
+============================================
+
+COMMAND: 
+run
+not this time buddy the monster grabs you and throws you back into the middle of the room 
+Monster hp: 1
+
+
+
+============================================
+ Health         120
+ Crowns         442
+============================================
+
+COMMAND: 
+run
+well you managed to run thats no fun where would you like to go
+ 3 4 2
+2
+ 1 3 5
+COMMAND: 
+1
+Input invalid try again (inputs are case sensitiveand check spelling
+COMMAND: 
+open
+What door would you like to open
+ 1 3 5
+3
+
+
+
+============================================
+ Health         120
+ Crowns         442
+============================================
+
+The ceiling is low in this room and it feels warm.
+you see some doors each labled
+ 2 5
+You See a shadow in the room 
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 100
+
+
+
+============================================
+ Health         120
+ Crowns         442
+============================================
+
+COMMAND: 
+attack
+You swing wildly at this thing infront of you hiting him you do: 148 damage
+With the monster dead, you deside that your going to riffle through his stuff becouse reasons and such
+and also your an adventure after all this is what you do... you manage to find 245crowns
+COMMAND: 
+
+Input invalid try again (inputs are case sensitiveand check spelling
+COMMAND: 
+open
+What door would you like to open
+ 2 5
+2
+
+
+
+============================================
+ Health         120
+ Crowns         687
+============================================
+
+You are in a room with a single window that cannot be opened.
+you see some doors each labled
+ 1 3 5
+You See a shadow in the room 
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 200
+
+
+
+============================================
+ Health         120
+ Crowns         687
+============================================
+
+COMMAND: 
+attack
+You swing wildly at this thing infront of you hiting him you do: 152 damage
+You see the attack coming from a mile away (you are a seasoned adventer after all) 
+you roll under it arm as it swings over you head you feel the air rush over you
+Monster hp: 48
+
+
+
+============================================
+ Health         120
+ Crowns         687
+============================================
+
+COMMAND: 
+attack
+You swing wildly at this thing infront of you hiting him you do: 109 damage
+With the monster dead, you deside that your going to riffle through his stuff becouse reasons and such
+and also your an adventure after all this is what you do... you manage to find 251crowns
+COMMAND: 
+open
+What door would you like to open
+ 1 3 5
+3
+
+
+
+============================================
+ Health         120
+ Crowns         938
+============================================
+
+The ceiling is low in this room and it feels warm.
+you see some doors each labled
+ 2 5
+You See a shadow in the room 
+COMMAND: 
+fight
+
+
+******************************************
+*               BATTLE MODE ON               *
+**********************************************
+
+
+before you stands a thing of some sort it looks like it will indeed kill you
+Monster hp: 50
+
+
+
+============================================
+ Health         120
+ Crowns         938
+============================================
+
+COMMAND: 
+attack
+You swing wildly at this thing infront of you hiting him you do: 146 damage
+With the monster dead, you deside that your going to riffle through his stuff becouse reasons and such
+and also your an adventure after all this is what you do... you manage to find 49crowns
+COMMAND: 
+look
+your looking around the room 
+you find a Axe laying there on the ground lucky you becouse your not silly you pick it up to use
+you look around the room high and low
+you find nothing of interest
+COMMAND: 
+open
+What door would you like to open
+ 2 5
+2
+
+
+
+============================================
+ Health         120
+ Crowns         987
+============================================
+
+You are in a room with a single window that cannot be opened.
+you see some doors each labled
+ 1 3 5
+COMMAND: 
+look
+your looking around the room 
+you look around the room high and low
+you find nothing of interest
+COMMAND: 
+open
+What door would you like to open
+ 1 3 5
+5
+
+
+
+============================================
+ Health         120
+ Crowns         987
+============================================
+
+You are in a massive room with a very high ceiling.
+you see some doors each labled
+ 3 4 2
+COMMAND: 
+look
+your looking around the room 
+you look around the room high and low
+you manage to find 16 Crowns
+COMMAND: 
+open
+What door would you like to open
+ 3 4 2
+3
+a bright light flashs in the room before you stands a blue floating guy
+What the hell you think to your self as to soon reolize this is a gin 
+gins are knowen for having fun with mortals as well the live forever and that gets really borring
+your about to shout out to it but as you open your mouth the gin snaps his fingers and your silenced
+he begins to talk with a boomy voice (very similar to that of Reg E. Cathey) 
+Thank you for collecting my crowns i could not be botherd collecting it for my self so i made you do it
+now that your job is done ill be taking my crowns an you can go back to that tavern i found you at
+and just as he finished talking you black out
+
+
+ good Job player you won this game stay tuned for next episode ... 
+ same bat time... 
+ same bat chanel...
