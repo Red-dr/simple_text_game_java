@@ -122,6 +122,7 @@ public class Game
 		
 		Scanner fileScan,loadingFile;
 		fileScan = new Scanner(new File("input/gamemap.txt"));
+		//reads in the files very next line to have the size of the array of rooms 
 		
 		roomNumber = fileScan.nextLine();
 		
